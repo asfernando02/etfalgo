@@ -1,2 +1,2 @@
-# etfalgo
-ETF Stock Trading Algorithm
+# slowstochastic trading algorithm
+ETF Stock Trading Algorithm using Slow Stochastic trading strategies
